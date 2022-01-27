@@ -1,6 +1,6 @@
 - 👋 Ola sou o Adriano
 - 🌱 Estudo Lógica de Programação com Java
-- 📫 E faço Automação de Testes Java, Selenium, Cucumber, Restassured e Postman.
+- 📫 E faço Automação de Testes Java, Selenium, Cucumber, RestAssured e Postman.
 
 ##
 
